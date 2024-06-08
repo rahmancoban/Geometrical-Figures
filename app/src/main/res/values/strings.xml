@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GEOMETRICAL_FIGURES</string>
+    <string-array name="calculation_options">
+        <item>Area</item>
+        <item>Circumference</item>
+        <item>Volume</item>
+    </string-array>
+</resources>

@@ -1,0 +1,46 @@
+# Gradle files
+.gradle/
+build/
+local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Android Studio files
+*.iml
+*.hprof
+
+# Log files
+*.log
+
+# Android specific files
+/captures/
+/output.json
+.idea/
+
+# Generated files
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+*.jar
+*.war
+*.ear
+
+# Keystore files
+*.jks
+
+# Proguard folder generated at build time by Android Studio
+proguard/
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# IntelliJ IDEA files
+*.ipr
+*.iws
+*.idea/
